@@ -1,0 +1,15 @@
+C:\do0CodeS\console\FileSystemDotnet\bin\Debug\net7.0\FileSystemDotnet.exe
+C:\do0CodeS\console\FileSystemDotnet\bin\Debug\net7.0\FileSystemDotnet.deps.json
+C:\do0CodeS\console\FileSystemDotnet\bin\Debug\net7.0\FileSystemDotnet.runtimeconfig.json
+C:\do0CodeS\console\FileSystemDotnet\bin\Debug\net7.0\FileSystemDotnet.dll
+C:\do0CodeS\console\FileSystemDotnet\bin\Debug\net7.0\FileSystemDotnet.pdb
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\FileSystemDotnet.csproj.AssemblyReference.cache
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\FileSystemDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\FileSystemDotnet.AssemblyInfoInputs.cache
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\FileSystemDotnet.AssemblyInfo.cs
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\FileSystemDotnet.csproj.CoreCompileInputs.cache
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\FileSystemDotnet.dll
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\refint\FileSystemDotnet.dll
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\FileSystemDotnet.pdb
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\FileSystemDotnet.genruntimeconfig.cache
+C:\do0CodeS\console\FileSystemDotnet\obj\Debug\net7.0\ref\FileSystemDotnet.dll
